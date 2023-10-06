@@ -1,0 +1,27 @@
+.un1
+{
+
+	margin-left: 10%;
+	width: 100%;
+	background-color: #f8f6ff;
+	float: left;
+	position: relative;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	transition: all 0.3s;
+
+}
+#un2
+{
+	margin-top: 60px;
+	margin-left: 35px; 
+	/*margin-bottom: 10px;*/
+}
+#gallery a img
+{
+	object-fit: cover;
+}
+#gallery a img:hover
+{
+	transform: scale(1.1);
+}
